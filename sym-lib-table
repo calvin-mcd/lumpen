@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "keebio")(type "Legacy")(uri "C:/Users/viva-/Documents/GitHub/libraries/keebio-components/keebio.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/viva-/Documents/GitHub/libraries/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/viva-/Documents/GitHub/libraries/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "rp2040-zero")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/rp2040-zero/rp2040-zero.kicad_sym")(options "")(descr ""))
+  (lib (name "crumpschemes")(type "Legacy")(uri "C:/Users/viva-/Documents/GitHub/libraries/CrumpSchemes/crumpschemes.lib")(options "")(descr ""))
+)

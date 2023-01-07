@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/MX_Alps_Hybrid.pretty/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "rp2040-zero")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/rp2040-zero")(options "")(descr ""))
+  (lib (name "CrumpPrints")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/CrumpPrints.pretty")(options "")(descr ""))
+)
