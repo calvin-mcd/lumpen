@@ -2276,7 +2276,7 @@
     (uuid 73532d33-fe03-43bd-8e2a-c27b234769f0)
     (property "Reference" "SW1" (id 0) (at 258.064 84.836 0))
     (property "Value" "RotaryEncoder_Switch" (id 1) (at 258.064 87.376 0))
-    (property "Footprint" "Keebio-Parts:RotaryEncoder_EC11-no-legs" (id 2) (at 261.874 99.06 0)
+    (property "Footprint" "Keebio-Parts:RotaryEncoder_EC11" (id 2) (at 261.874 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 258.064 101.6 0)
@@ -3682,7 +3682,7 @@
       (reference "RZ1") (unit 1) (value "RP2040-Zero") (footprint "rp2040-zero:RP2040-Zero")
     )
     (path "/73532d33-fe03-43bd-8e2a-c27b234769f0"
-      (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
+      (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11")
     )
   )
 )
