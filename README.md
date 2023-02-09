@@ -17,11 +17,11 @@ The design takes cues and inspiration from amazing keyboards such as trash man\#
 
 When building the keyboard make sure that you solder the switch on top of the micro controller before installing the controller! Version 1.0 had some small interferences between that switch and the pins of the controller. Effort has been made to minimise that with version 1.1 but it has not been tested. In case of interference I recommend to cut part of the bottom housing of the switch. That worked well on version 1.0.
 
-The board uses m2 screwholes and works well with a 10mm standoff. For a smoother experience I recommend using a o-ring each between standoff and pcb.
+The board uses m2 screwholes and works well with 10mm standoffs. For a smoother experience I recommend using a o-ring each between standoff and pcb.
 
-The pcb support both through hole and smd diodes.
+The pcb supports both through hole and smd diodes.
 
-Because this board uses a rp2040 some rgb strips might not work due to their 5V logic. I had mixed results so far. However two firmwares are provided. One allows you to use one the one led on the micro controller itself for RGB instead of rgb breakout.
+Because this board uses a rp2040 some rgb strips might not work due to their 5V logic. I had mixed results so far. However two firmwares are provided. One allows you to use only the one led on the micro controller itself for RGB instead of rgb breakout.
 
 ## Pictures
 
