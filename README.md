@@ -1,7 +1,7 @@
 # lumpen
 
 lumpen is an entry-level 40% keyboard designed around the rp2040-zero micro controller.
-This is a plateless build with a simple pcb with flex cuts for some bounce and a slick backplate.
+This is a plateless build with a pcb with flex cuts for some bounce and a simple backplate.
 The keyboard sports a uniform stagger layout with big bar or split bar options for the bottom row. 
 It also supports one rortary encoder and has a rgb breakout.
 
