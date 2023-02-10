@@ -25,9 +25,20 @@ Because this board uses a rp2040 some rgb strips might not work due to their 5V 
 
 ## Pictures
 
+![](https://github.com/calvin-mcd/lumpen/blob/main/Images/20230210_111705.jpg)
+![](https://github.com/calvin-mcd/lumpen/blob/main/Images/20230210_113822.jpg)
+
+Gerber Renders
 ![](https://github.com/calvin-mcd/lumpen/blob/main/Images/pcb%20top.png)  
 ![](https://github.com/calvin-mcd/lumpen/blob/main/Images/pcb%20bottom.png)  
-![](https://github.com/calvin-mcd/lumpen/blob/main/Images/backplate.png)  
+![](https://github.com/calvin-mcd/lumpen/blob/main/Images/backplate.png)
+
+
+Picture of the switch sitting on top of the controler
+![](https://github.com/calvin-mcd/lumpen/blob/main/Images/20230210_111727.jpg)
+Picture of the oring between standoffs and pcb
+![](https://github.com/calvin-mcd/lumpen/blob/main/Images/20230210_111737.jpg)
+
 
 ## Disclaimer
 
