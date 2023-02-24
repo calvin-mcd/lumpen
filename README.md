@@ -3,7 +3,7 @@
 lumpen is an entry-level 40% keyboard designed around the [rp2040-zero](https://www.waveshare.com/rp2040-zero.htm) micro controller from waveshare.
 This is a plateless build with a pcb with flex cuts for some bounce and a simple backplate.
 The keyboard sports a uniform stagger layout with big bar or split bar options for the bottom row. 
-It also supports one rortary encoder and has a rgb breakout.
+It also supports one rortary encoder at the bottom left and has a rgb breakout (see RGB for details!).
 
 The design takes cues and inspiration from amazing keyboards such as trash man\#6005’s [Coriander](https://trashman.wiki/cases/coriander), rain\#3950's [hubris](https://github.com/rainkeebs/hubris-mv-case) and matthewdias' [model-v](https://github.com/matthewdias/model-v).
 
@@ -15,13 +15,27 @@ The design takes cues and inspiration from amazing keyboards such as trash man\#
 
 ## Build Guide
 
-When building the keyboard make sure that you solder the switch on top of the micro controller before installing the controller! Version 1.0 had some small interferences between that switch and the pins of the controller. Effort has been made to minimise that with version 1.1 but it has not been tested. In case of interference I recommend to cut part of the bottom housing of the switch. That worked well on version 1.0.
+*Step 1*
 
-The board uses m2 screwholes and works well with 10mm standoffs. For a smoother experience I recommend using a o-ring each between standoff and pcb.
+When building the keyboard make sure that you solder the switch on top of the micro controller before installing the controller! First solder the controller headers in place, make sure to cut them as flush as possible. Then solder the switch. Afterwards solder the controller.
 
-The pcb supports both through hole and smd diodes.
+Version 1.0 had some small interferences between that switch and the pins of the controller. Effort has been made to minimise that with version 1.1 but it has not been tested. In case of interference I recommend to cut part of the bottom housing of the switch. That worked well on version 1.0. (see pictures below)
 
-Because this board uses a rp2040 some rgb strips might not work due to their 5V logic. I had mixed results so far. However two firmwares are provided. One allows you to use only the one led on the micro controller itself for RGB instead of rgb breakout.
+*Step 2*
+
+Solder the diodes of your choice. The pcb supports both through hole and smd diodes. Install stabilisers and solder the switches.
+
+*Step 3*
+
+Put standoffs on the pcb. Screw backplate onto the board.
+
+The board uses m2 screwholes and works well with 10mm standoffs. For a smoother experience I recommend using a o-ring each between standoff and pcb (see pictures below).
+
+*RGB*
+
+Because this board uses a rp2040, you will need to use a logic shifter to utilise the rgb breakout. Something like [this](https://learn.sparkfun.com/tutorials/retired---using-the-logic-level-converter) or [this](https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide) for example. 
+
+There are two firmwares are provided. I recommend the firmware that is using the onboard single led of the rp2040-zero. The second firmware is supposed to support the rgb strip with the above mentioned caveat.
 
 ## Pictures
 
