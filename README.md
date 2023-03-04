@@ -41,6 +41,8 @@ There are two firmwares are provided. I recommend the firmware that is using the
 
 ![](https://github.com/calvin-mcd/lumpen/blob/main/Images/20230210_111705.jpg)
 ![](https://github.com/calvin-mcd/lumpen/blob/main/Images/20230210_113822.jpg)
+Soyo#3925's build:
+![](https://github.com/calvin-mcd/lumpen/blob/main/Images/soyo_lumpen.jpg)
 
 Gerber Renders
 ![](https://github.com/calvin-mcd/lumpen/blob/main/Images/pcb%20top.png)  
