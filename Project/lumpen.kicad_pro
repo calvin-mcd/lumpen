@@ -51,8 +51,14 @@
       },
       "diff_pair_dimensions": [],
       "drc_exclusions": [
+        "copper_edge_clearance|239637000|114300000|12312381-a0ca-4233-8120-0f5be6400de2|fc1be059-e89d-4b64-a879-915b831229e2",
+        "copper_edge_clearance|250837000|114300000|b1deeadc-2d28-4e6f-b895-168954aa464d|f54aed35-42a2-4247-87fa-128f7688553b",
         "hole_clearance|239637000|114300000|12312381-a0ca-4233-8120-0f5be6400de2|fc1be059-e89d-4b64-a879-915b831229e2",
-        "hole_clearance|250837000|114300000|b1deeadc-2d28-4e6f-b895-168954aa464d|f54aed35-42a2-4247-87fa-128f7688553b"
+        "hole_clearance|239637000|114300000|fc1be059-e89d-4b64-a879-915b831229e2|12312381-a0ca-4233-8120-0f5be6400de2",
+        "hole_clearance|250837000|114300000|b1deeadc-2d28-4e6f-b895-168954aa464d|f54aed35-42a2-4247-87fa-128f7688553b",
+        "hole_clearance|250837000|114300000|f54aed35-42a2-4247-87fa-128f7688553b|b1deeadc-2d28-4e6f-b895-168954aa464d",
+        "solder_mask_bridge|239637000|114300000|fc1be059-e89d-4b64-a879-915b831229e2|12312381-a0ca-4233-8120-0f5be6400de2",
+        "solder_mask_bridge|250837000|114300000|f54aed35-42a2-4247-87fa-128f7688553b|b1deeadc-2d28-4e6f-b895-168954aa464d"
       ],
       "meta": {
         "version": 2
