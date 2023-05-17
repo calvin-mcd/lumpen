@@ -33,7 +33,7 @@ The board uses m2 screwholes and works well with 10mm standoffs. For a smoother 
 
 *RGB*
 
-Because this board uses a rp2040, you will need to use a logic shifter to utilise the rgb breakout. Something like [this](https://learn.sparkfun.com/tutorials/retired---using-the-logic-level-converter) or [this](https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide) for example. 
+Because this board uses a rp2040, you will need to use a logic shifter to utilise the rgb breakout. Something like [this](https://learn.sparkfun.com/tutorials/retired---using-the-logic-level-converter) or [this](https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide) for example. Or you could try this [hack](https://hackaday.com/2017/01/20/cheating-at-5v-ws2812-control-to-use-a-3-3v-data-line/).
 
 There are two firmwares are provided. I recommend the firmware that is using the onboard single led of the rp2040-zero. The second firmware is supposed to support the rgb strip with the above mentioned caveat.
 
