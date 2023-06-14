@@ -58,7 +58,7 @@ Picture of the oring between standoffs and pcb
 
 ## Disclaimer
 
-Please note that this project has been tested to work but I am _not responsible_ for any outcomes of its use. However, feel free to edit, modify and otherwise utilise these files.
+This PCB has been fully tested and is confirmed to work. However, no-one involved in this project is responsible for any usage issues that may arise. Order at your own risk. Feel free to edit, modify and otherwise utilise these files.
 
 ## License
 
